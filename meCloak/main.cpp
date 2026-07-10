@@ -1,7 +1,3 @@
-// meCloak v1.0 — Seed-based File & Text Encryption
-// Pure Win32 API + C++17, no external dependencies
-// Build: g++ -static -O2 -mwindows main.cpp -o meCloak.exe -lcomctl32
-
 #ifndef UNICODE
 #define UNICODE
 #endif
