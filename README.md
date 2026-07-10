@@ -1,4 +1,4 @@
-# CipherForge 🔐
+# meCloak 🔐
 
 A lightweight encryption tool designed for secure communication between two trusted parties. One numeric seed generates one unique cipher.
 
