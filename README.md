@@ -25,8 +25,3 @@ A lightweight encryption tool for secure communication between two parties. One 
 - Copy output or seed to clipboard
 - Hotkeys: Ctrl+E (Encrypt), Ctrl+D (Decrypt)
 - Portable — single .exe, no installation, works offline
-
-## Build
-
-```bash
-g++ -static -O2 -s -mwindows main.cpp -o meCloak.exe -lcomctl32
